@@ -43,6 +43,7 @@ html, body
 
 .navbar
 {
+    padding: 0 10px 0 10px;
     width: 100%;
     z-index: 999999;
     position: fixed;
@@ -69,6 +70,7 @@ html, body
 .header-row>div:first-child>strong
 {
     color: rgb(200, 200, 200);
+    font-size: 20px;
 }
 
 .header-row>div:first-child>h1
@@ -86,7 +88,7 @@ html, body
 
 .header-row>div:first-child>div>a
 {
-    padding: 10px 15px;
+    padding: 15px 20px;
     margin: 3px 5px;
     color: white;
     border-radius: 8px;
