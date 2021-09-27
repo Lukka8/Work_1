@@ -244,6 +244,10 @@ html, body
     {
         visibility: hidden;
     }
+    .space-2
+    {
+        height: 150px;
+    }
 }
 
 @media screen and (min-width: 767px) 
