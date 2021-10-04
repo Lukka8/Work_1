@@ -298,6 +298,29 @@ footer
     background-color: #3C3744;
 }
 
+.Error_Code
+{
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+}
+
+.Error_Code_Image
+{
+    margin-top: 30px;
+    height: 400px;
+    position: absolute;
+    top: 55px;
+    width: 100%;
+    z-index: 4;
+    background: url('../Images/13.png') center / contain no-repeat;
+    filter: drop-shadow(10px 10px 50px gray);
+}
+
+
 @media screen and (max-width: 991px) {
     .newsheading
     {
